@@ -4,6 +4,12 @@
 <h4>BANDKAMP - Redoc Documentation: https://bandkamp-m5-s5.onrender.com/api/docs/redoc/</h4>
 
 #
+<h4>NOTE:</h4>
+
+Through this repository, I present the final result of the project that I developed for KenzieAcademy, in which I was tasked with modifying an existing project to promote improvements, as well as migrating the database from SQLite3 to Postgresql.
+
+As I developed my work from a fork of a private repository, I am unable to make public the entirety of my development process and code changes leading up to the final result. If you are interested in reviewing the complete development process of this project in the repository where I originally developed this work, please do not hesitate to contact me. It would be my pleasure to present it to you. For now, I am providing a general overview of the project's objectives, requirements, and stages, as well as the final version of the work that I completed.
+#
 
 <h4>MAIN OBJECTIVES</h4>
 
