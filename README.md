@@ -1,4 +1,4 @@
-# BANDKAMP - A music API.
+# BANDKAMP
 
 <h4>BANDKAMP - Swagger Documentation: https://bandkamp-m5-s5.onrender.com/api/docs/swagger/</h4>
 <h4>BANDKAMP - Redoc Documentation: https://bandkamp-m5-s5.onrender.com/api/docs/redoc/</h4>
