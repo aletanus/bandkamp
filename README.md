@@ -25,7 +25,7 @@ Note: Throughout the project, tests for each app were carefully considered and u
 
 B) Modeling:
 
-After interpreting the application and understanding its routes and rules, I diagrammed the tables, their attributes, and relationships using dbdiagram.io and included a PNG of the DER in the repository.
+After interpreting the application and understanding its routes and rules, I diagrammed the tables, their attributes, and relationships using dbdiagram.io and included a PNG of the ERD in the repository.
 
 C) Migration to Postgres:
 
