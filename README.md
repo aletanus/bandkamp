@@ -15,9 +15,9 @@ As I developed my work from a fork of a private repository, I am unable to make 
 
 The objective of this project was to update a music API that had been developed using APIView, base Serializer, and SQLite3 by transitioning it to use Generic View, Model Serializer, and Postgres instead of SQLite3. After successfully completing the migration, I integrated Postgres into the platform and developed API documentation in both swagger and redoc formats. The final version of the application was deployed using Render and is now available online at bandkamp-m5-s5.onrender.com.
 
-<h4>ENTITY RELATIONSHIP DIAGRAM</h4>
+<!-- <h4>ENTITY RELATIONSHIP DIAGRAM</h4>
 
-![image](https://user-images.githubusercontent.com/106698505/235031469-bd289d6b-d5c7-4158-ac21-d39a9fb506e7.png)
+![image](https://user-images.githubusercontent.com/106698505/235031469-bd289d6b-d5c7-4158-ac21-d39a9fb506e7.png) -->
 
 
 
